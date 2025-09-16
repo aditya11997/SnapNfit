@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'SnapNfit – Fitness at your Snap',
   description: 'Book certified trainers who come to you — home, office, or park.'
